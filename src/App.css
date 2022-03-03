@@ -1,0 +1,13 @@
+.head {
+  text-align: center;
+  color: blue;
+}
+ul {
+  margin-left: 100px;
+  font-size: 20px;
+  font-weight: bold;
+}
+li {
+  font-weight: lighter;
+  font-size: 15px;
+}
